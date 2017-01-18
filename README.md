@@ -1,2 +1,2 @@
-# Explorando-a-Linguagem-JavaScript-
+# Explorando-a-Linguagem-JavaScript
 Quebrando a barreira de vez com javascript
