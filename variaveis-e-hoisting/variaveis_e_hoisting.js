@@ -8,7 +8,7 @@ console.log('Total imposto a pagar', totalImposto);
 
 var valor;
 
-//HOISTING -> lEVA PRA CIMA TODAS AS DECLARAÇÕES DAS VARIÁVEIS QUE ELE ENCONTAR MAIS NÃO AS ATRIBUIÇÕES
+//HOISTING -> LEVA PRA CIMA TODAS AS DECLARAÇÕES DAS VARIÁVEIS QUE ELE ENCONTRAR MAIS NÃO AS ATRIBUIÇÕES
 /*
 var percentualImposto, valor, totalImposto;
 percentualImposto = 0.15;
